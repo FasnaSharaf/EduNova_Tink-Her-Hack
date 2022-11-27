@@ -5,4 +5,4 @@ A professional learning community (PLC) is an opportunity for a group of colleag
 HTML, CSS, JS
 # How to clone the repo
 Type the following command in your terminal
-`git clone https://github.com/AryaV14/eduNova.git`
+`git clone https://github.com/FasnaSharaf/EduNova_Tink-Her-Hack.git`
